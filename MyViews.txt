@@ -1,0 +1,1 @@
+I have used Python Programming and pandas for my project. i have found the central tendencies of measure and dispersion.by moving through the sales trend i have found out the busiest month and busiest day of the week also the top selling product based on the country 
